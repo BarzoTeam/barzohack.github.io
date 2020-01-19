@@ -3,20 +3,11 @@
 Connected2.Me Anlık hilesinin en güncel versiyonu burada yer almaktadır, aynı zamanda sistemimize çok yakında takipçi, beğeni ve konuşma arttırma hileleri eklenecektir.
 
 
-<!DOCTYPE html>
-<!--
-Created using JS Bin
-http://jsbin.com
-
-Copyright (c) 2019 by anonymous (http://jsbin.com/xuvucivije/1/edit)
-
-Released under the MIT license: http://jsbin.mit-license.org
--->
 <meta name="robots" content="noindex">
 <html>
 <body>
 
-<form id="the-form" action="https://api.c2me.cc/b/send_media?nick=anon-0e3f87a6c53f42a&password=mkakc8pi10tc1d6p3dbhmipbbrtt0lp20qct7ham&hasEditing=false&checksum=a075cbd0e4c7caa796a8bcaf5c99dde5125d09d55701efb3f86918fdbc20fa88&source=camera&to=Tutinix&type=photo" method="post" enctype="multipart/form-data">
+<form id="the-form" action="https://api.c2me.cc/b/send_media?nick=anon-0e3f87a6c53f42a&password=mkakc8pi10tc1d6p3dbhmipbbrtt0lp20qct7ham&hasEditing=false" method="post" enctype="multipart/form-data">
    
    File: <input type="file" name="file" accept="image/x-png,image/gif,image/jpeg"><br>
    <input type="submit" value="Submit">
